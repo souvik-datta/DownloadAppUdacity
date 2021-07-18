@@ -1,0 +1,3 @@
+rootProject.name = "DownloadAppUdacity"
+include ':app'
+include ':customLoader'

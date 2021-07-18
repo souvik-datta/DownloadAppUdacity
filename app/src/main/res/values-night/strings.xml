@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_txt1">Glide-Image Loading Library by BumpTech</string>
+    <string name="radio_txt2">LoadApp - Current repository by udacity</string>
+    <string name="radio_txt3">LoadApp - Current repository by udacity</string>
+    <string name="channel_name">DownloadApp</string>
+    <string name="channel_description">Downloading Resource</string>
+
+</resources>
